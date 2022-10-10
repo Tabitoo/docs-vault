@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "5cff17d05579be55",
+    "type": "split",
+    "children": [
+      {
+        "id": "50afe5681ca3dae3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Renpy/Images Concepts.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36d31f47705e2577",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de4e0e9ac456a22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2773f454b0ca1577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f473ab7f59f3007d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Layers",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4b8d66da0475f61",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "536eb5dbe8a2ef33",
+    "type": "split",
+    "children": [
+      {
+        "id": "65becd707f2b8a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3112040eaf42853",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Renpy/Images Concepts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8231a7e443036c29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Renpy/Images Concepts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a799c8a0928ef491",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c769c59896b3ac1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Renpy/Images Concepts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e3112040eaf42853",
+  "lastOpenFiles": [
+    "2022-10-10.md",
+    "Renpy/Images Concepts.md",
+    "2022-10-07.md",
+    "README.md"
+  ]
+}
