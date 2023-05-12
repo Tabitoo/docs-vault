@@ -4,16 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "50afe5681ca3dae3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Projects/Miel servieces/Database Diagram.md",
-            "mode": "source",
-            "source": false
+        "id": "2db02fce45ee2bd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d921f734859c9e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Renpy/Renpy minigames.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "822c15f73d7b96c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Facultad/informatica general/Sistema Binario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42c2a8b03683354f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
+            "id": "e115d2bc2f1b9f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Model Layer/Models - Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +72,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -56,12 +99,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1ec1c02b40bbb959",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "536eb5dbe8a2ef33",
@@ -77,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Miel servieces/Database Diagram.md",
+                "file": "Facultad/informatica general/Sistema Binario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Miel servieces/Database Diagram.md",
+                "file": "Facultad/informatica general/Sistema Binario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Miel servieces/Database Diagram.md"
+                "file": "Facultad/informatica general/Sistema Binario.md"
               }
             }
           }
@@ -128,10 +179,32 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50afe5681ca3dae3",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "42c2a8b03683354f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Projects/Miel servieces/Database Diagram.md",
+    "Javascript - Typescript/Imports.md",
+    "Facultad/informatica general/Sistema Binario.md",
+    "Facultad/informatica general",
+    "Untitled",
+    "Facultad",
+    "Django/Model Layer/Models - Basics.md",
+    "Django/View Layer/Views - Basics.md",
+    "Django/View Layer",
+    "Renpy/Renpy minigames.md",
     "Renpy/Images Concepts.md",
+    "Untitled.md",
+    "Django/Model Layer",
+    "AWS RE - START/Cloud Foundations.md",
     "2022-10-10.md",
     "2022-10-07.md",
     "README.md"

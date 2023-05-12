@@ -15,3 +15,4 @@ Estos se dividen en 4:
 
 Para mas informacion sobre los layers entrar al siguiente [link](https://www.renpy.org/doc/html/displaying_images.html?#layer)
 
+
